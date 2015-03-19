@@ -1,0 +1,3 @@
+g2_gsb_frais_homepage:
+    path:     /hello/{name}
+    defaults: { _controller: G2GsbFraisBundle:Default:index }
